@@ -5,5 +5,5 @@ function open(){
     header.classList.toggle('open')
 }
 
-bars.addEventListener('click',open)
-close.addEventListener('click',open)
+bars.addEventListener('click',open);
+close.addEventListener('click',open);
